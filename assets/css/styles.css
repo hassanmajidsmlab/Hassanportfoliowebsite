@@ -1412,3 +1412,7 @@ textarea {
     padding-inline: 1.25rem;
   }
 }
+::selection {
+  background-color: var(--first-color);
+  color: var(--white-color);
+}
