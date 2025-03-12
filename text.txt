@@ -28,10 +28,10 @@ Hassan Majid
 Frontend Developer & Web Designer
 
 .home-data-no | .home-data-title
-12 +
+3 +
 Years of Experience
 
-330
+25
 Completed Projects
 
 .home-description
@@ -50,26 +50,31 @@ What I Do
 My Services
 
 .services-subtitle | .services-title | .services-description
-Web Development
-Web Design & Logo
-Web designers craft the overall vision & plan for a website layout. Professional logo development: Business, Company, or Personal.
 
-Apps Development
-iOS & Android
-Design Software applications to run on mobile devices. Modern and mobile-ready application that will help you reach all of your marketing.
+Frontend Development
+Modern Web Interfaces
+I specialize in crafting responsive and visually appealing web interfaces using
+React, Angular, and modern UI frameworks like Material UI & Tailwind CSS.
 
-Game Development
-Unity & Unreal Engine
-Creating games & describes the design, development and release of a game. Developing unique mobile android and ios games.
+Web Performance:
+Speed & Optimization
+I enhance website performance by optimizing code, improving loading speeds,
+and implementing best SEO practices to boost visibility.
 
-Advertising
-Google Ads
-Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program.
+Responsive Design:
+Mobile-Friendly UI
+Ensuring a seamless user experience across all devices with fully responsive
+and adaptive designs for modern websites and applications.
 
-Music Writing
-Sound Track
-Music copying, writing, creating, transcription and composition services.
+UI/UX Enhancement:
+User-Centered Design
+Improving user experience with intuitive designs, user-friendly interfaces,
+and modern aesthetics tailored to your brand identity.
 
+Custom Components:
+Reusable UI Elements
+Building scalable and reusable UI components in React and Angular
+to streamline development and maintain design consistency.
 
 ========== SKILLS ==========
 .section-title
@@ -78,28 +83,35 @@ Professional Skills
 .section-subtitle
 My Talent
 
-.skills-description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-.skills-name | .skills-value
-PHP
-85%
+.skills-name | .skills-value | .skills-description
 
-JavaScript
-75
+HTML: 95%
+Strong knowledge of HTML, including semantic elements, forms, and accessibility best practices.
 
-WordPress
-90
+CSS: 90%
+Proficient in styling, animations, flexbox, grid, and responsive design.
 
-Python
-75
+JavaScript: 85%
+Experienced in vanilla JavaScript, DOM manipulation, and ES6+ features.
 
-React
-70
+React: 80%
+Skilled in React components, hooks, state management, and performance optimization.
 
-Adobe XD
-80
+Redux: 75%
+Hands-on experience with Redux for state management in large-scale applications.
 
+Bootstrap: 85%
+Well-versed in Bootstrap components, utilities, and customization.
+
+Tailwind CSS: 90%
+Expertise in Tailwind for rapid UI development and responsive layouts.
+
+Material UI: 80%
+Proficient in MUI components, theming, and design best practices.
+
+Angular: 70%
+Experienced in building dynamic SPAs with Angular, TypeScript, and RxJS.
 
 ========== WORK ==========
 .section-title
@@ -109,32 +121,38 @@ Portfolio
 My Cases
 
 .work-item
+
 All
-Photography
-Development
-Branding
+Web Development
+UI/UX Design
+Projects
 
-.work-description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
 
-.work-category | .work-title
-Branding
-Zorro
+.work-category | .work-title | .work-description
 
-Development
-Explore
+Portfolio Website
+Web Development
+Designed and developed a responsive portfolio website showcasing my skills and projects.
 
-Photography
-Mozar
+E-Commerce App
+UI/UX Design
+Created a modern and user-friendly UI/UX design for an e-commerce web application.
 
-Photography
-Gooir
+Business Landing Page
+Freelance Project
+Developed a landing page for a startup, focusing on performance and visual appeal.
 
-Development
-Stay Fit
+Admin Dashboard
+Web Development
+Designed and developed a fully responsive admin dashboard using React and Tailwind CSS.
 
-Branding
-Kana
+Travel App UI
+UI/UX Design
+Created a modern and interactive UI/UX design for a travel application.
+
+Restaurant Website
+Freelance Project
+Developed a restaurant website with a modern design and interactive UI.
 
 
 ========== RESUME ==========
@@ -147,37 +165,43 @@ My Story
 .resume-title
 Education
 
-.resume-description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ 
+.resume-header-title | .resume-content-title | .resume-date | .resume-description
 
-.resume-header-title | .resume-content-title | .resume-date
-CoderHouse Courses
-Backend Programming
-2014 - 2016
+Self-Taught & Online Learning
+Frontend Web Development
+(2023 - Present)
+Learned HTML, CSS, JavaScript, React, Redux, Bootstrap, Tailwind CSS, and Material UI through online courses and self-study.
 
-Lviv National Academy of Arts
-Faculty of Design
-2012 - 2014
+Intermediate Education
+Pre-Engineering
+(2021 - 2023)
+Completed intermediate education with a focus on mathematics, physics, and computer science.
 
-IT Future
 High School
-2010 - 2012
+Science Group
+(2019 - 2021)
+Studied fundamental subjects including mathematics, physics, chemistry, and computer science.
 
 .resume-title
 Experience
 
-.resume-header-title | .resume-content-title | .resume-date
-UI Head & Manager
-Soft Tech Inc.
-2020 - Present
+.resume-header-title | .resume-content-title | .resume-date | .resume-description
 
-UI / UX Specialist
-Kana Design Studio
-2018 - 2020
+Frontend Web Developer
+Freelance & Personal Projects
+(2023 - Present)
+Developed multiple websites using React, Redux, Material UI, and Tailwind CSS.
 
-Plugins Developer
-Fiverr.com
-2016 - 2018
+UI/UX Designer
+Freelance Projects
+(2023 - Present)
+Designed and developed UI/UX for various client projects, focusing on user experience and interactive designs.
+
+Junior Frontend Developer
+Startup Project
+(2022 - 2023)
+Worked on a startup project to build a responsive website and improve user experience through interactive designs.
 
 
 ========== TESTIMONIALS ==========
@@ -216,16 +240,16 @@ Let's Talk About Ideas
 
 .contact-title | .contact-data
 Address
-North Tower, Toronto, Canada
+Lahore, Punjab, Pakistan
 
 Freelance
 Available Right Now
 
 Email
-zoe.miller@gmail.com
+hassanmajidsmlab@gmail.com
 
 Phone
-+1 900 - 900 - 9000
++1 23 - 456 - 7890
 
 .contact-form-tag
 Your full Name *
@@ -239,7 +263,7 @@ Your Message
 
 ========== FOOTER ==========
 .footer-copyright
-© 2024 <span>Miller</span>. All Rights Reserved
+© 2024 <span>Hassan</span>. All Rights Reserved
 Developed by <span>Hassan</span>
 
 
