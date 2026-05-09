@@ -55,8 +55,8 @@
 
 /*=============== DARK THEME ===============*/
 .dark {
-  --title-color: hsl(0 0%, 100%);
-  --text-color: hsl(0 0%, 92%);
+  --title-color: hsl(var(--hue), 0%, 100%);
+  --text-color: hsl(var(--hue), 0%, 100%);
   --body-color: hsl(var(--hue), 10%, 8%);
   --container-color: hsl(var(--hue), 10%, 16%);
   --border-color: hsl(var(--hue), 4%, 65%);
